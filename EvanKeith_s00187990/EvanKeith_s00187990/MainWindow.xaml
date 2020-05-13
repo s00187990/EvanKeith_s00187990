@@ -1,0 +1,15 @@
+﻿<Window x:Class="EvanKeith_s00187990.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EvanKeith_s00187990"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lbxPhoneSelection" HorizontalAlignment="Left" Height="264" Margin="92,60,0,0" VerticalAlignment="Top" Width="260" SelectionChanged="lbxPhoneSelection_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Height="47" Margin="465,60,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="184"/>
+        <Image HorizontalAlignment="Left" Height="191" Margin="465,133,0,0" VerticalAlignment="Top" Width="184"/>
+
+    </Grid>
+</Window>
