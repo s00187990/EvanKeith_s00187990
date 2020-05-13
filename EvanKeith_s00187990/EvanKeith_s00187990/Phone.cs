@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,5 +21,15 @@ namespace EvanKeith_s00187990
         }
 
 
+    }
+
+    public class PhoneInfo : DbContext
+    {
+        public PhoneInfo() : base("PhoneDatabase")
+        {
+
+        }
+
+        public DbSet<Phone> phoneInfo { get; set; }
     }
 }
