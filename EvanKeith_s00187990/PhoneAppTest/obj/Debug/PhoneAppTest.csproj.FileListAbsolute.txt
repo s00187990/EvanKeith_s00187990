@@ -1,0 +1,17 @@
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\PhoneAppTest.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\PhoneAppTest.pdb
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\EvanKeith_s00187990.exe
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\EvanKeith_s00187990.pdb
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\EvanKeith_s00187990.exe.config
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\obj\Debug\PhoneAppTest.csprojAssemblyReference.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\obj\Debug\PhoneAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\obj\Debug\PhoneAppTest.csproj.CopyComplete
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\obj\Debug\PhoneAppTest.dll
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\PhoneAppTest\obj\Debug\PhoneAppTest.pdb

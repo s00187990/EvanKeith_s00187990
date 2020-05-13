@@ -1,0 +1,15 @@
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\bin\Debug\EvanKeith_s00187990.exe.config
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\bin\Debug\EvanKeith_s00187990.exe
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\bin\Debug\EvanKeith_s00187990.pdb
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.csprojAssemblyReference.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\MainWindow.g.cs
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\App.g.cs
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990_MarkupCompile.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990_MarkupCompile.lref
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\MainWindow.baml
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.g.resources
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.Properties.Resources.resources
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.csproj.GenerateResource.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.csproj.CoreCompileInputs.cache
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.exe
+C:\Users\Evank\OneDrive\Documents\GitHub\EvanKeith_s00187990\EvanKeith_s00187990\EvanKeith_s00187990\obj\Debug\EvanKeith_s00187990.pdb

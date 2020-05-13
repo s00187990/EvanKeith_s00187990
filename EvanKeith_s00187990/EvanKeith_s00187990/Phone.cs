@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EvanKeith_s00187990
 {
-    class Phone
+    public class Phone
     {
         public string Name { get; set; }
         public decimal Price { get; set; }
@@ -16,7 +16,10 @@ namespace EvanKeith_s00187990
 
         public void IncreasePrice(int percentage)
         {
-            Price += Price + (Price * (percentage / 100));
+            //Price += Price + (Price * (percentage / 100));
+
+            decimal add = (percentage / Price) * 100;
+            Price += add;
         }
 
 
